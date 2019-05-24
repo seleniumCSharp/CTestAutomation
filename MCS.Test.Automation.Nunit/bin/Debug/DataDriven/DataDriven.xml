@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tests>
+	<!--<COMPASS TEST DATA>-->
+	<mcslogin uname="ADMIN"  password="ADMIN"/>
+	<astmInternallogin uname="iADMIN"  password="ADMIN"/>
+	<AddApplicationWithValidData uname="ADMIN"  password="ADMIN" ApplicationName="TestNewApp" contactName="RameshK" Email="rkautomation@gmail.com"/>
+	<AddApplicationWithEmptyData uname="ADMIN"  password="ADMIN" ApplicationName="" contactName="" Email="" applicationError="Application Name is required." contacterror="Contact Name is required." emailerror="Email ID is required."/>
+	<MembershipType uname="ADMIN"  password="ADMIN" membershipname="TestSampled" membershipfee="12.3" header ="Membership Types"/>
+	<EditMembershipType uname="ADMIN"  password="ADMIN" membershipType="TestSampledUWE" membershipfee="12.3" header ="Membership Types"/>
+	<Classification uname="ADMIN"  password="ADMIN" ClassificationType="TestClassification" Description="Classification Description"/>
+		<mcsInternallogin uname="iADMIN"  password="ADMIN"/>
+	<mcsloginEmpty uname=""  password=""/>
+	<addofficerData   uname="ADMIN"  password="a" manageofficerTitle="Manage Officer Titles" header="Officer Titles"/>
+	</tests>
