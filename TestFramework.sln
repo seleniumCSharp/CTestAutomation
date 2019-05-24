@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCS.Test.Automation.Common", "MCS.Test.Automation.Common\MCS.Test.Automation.Common.csproj", "{75A592E7-4114-4256-81DB-3D5A5536A5F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCS.Test.Automation.Nunit", "MCS.Test.Automation.Nunit\MCS.Test.Automation.Nunit.csproj", "{DACEB8D0-40E8-4CE9-B6BB-A35EE6653FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCS.Test.Automation.Tests.PageObjects", "MCS.Test.Automation.Tests.PageObjects\MCS.Test.Automation.Tests.PageObjects.csproj", "{076A5015-A3AD-47E1-AC1F-80F8E3C52B24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{964AF327-BCDC-4EED-A278-29ADFB0CB2D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuspec", ".nuspec", "{43C7F2B5-272F-4341-B161-721ADD6384A3}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\Porject\.nuspec\MCS.Test.Automation.Nunit.nuspec = ..\..\..\Desktop\Porject\.nuspec\MCS.Test.Automation.Nunit.nuspec
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75A592E7-4114-4256-81DB-3D5A5536A5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A592E7-4114-4256-81DB-3D5A5536A5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A592E7-4114-4256-81DB-3D5A5536A5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A592E7-4114-4256-81DB-3D5A5536A5F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DACEB8D0-40E8-4CE9-B6BB-A35EE6653FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACEB8D0-40E8-4CE9-B6BB-A35EE6653FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACEB8D0-40E8-4CE9-B6BB-A35EE6653FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACEB8D0-40E8-4CE9-B6BB-A35EE6653FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{076A5015-A3AD-47E1-AC1F-80F8E3C52B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076A5015-A3AD-47E1-AC1F-80F8E3C52B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076A5015-A3AD-47E1-AC1F-80F8E3C52B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076A5015-A3AD-47E1-AC1F-80F8E3C52B24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{43C7F2B5-272F-4341-B161-721ADD6384A3} = {964AF327-BCDC-4EED-A278-29ADFB0CB2D8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F30E02-7E0E-469A-8C37-486D6878E941}
+	EndGlobalSection
+EndGlobal

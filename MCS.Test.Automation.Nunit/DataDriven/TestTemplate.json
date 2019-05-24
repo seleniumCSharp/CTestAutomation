@@ -1,0 +1,14 @@
+{
+            "testKey" : "ATP-36",
+            "start" : "2014-08-30T11:51:00+01:00",
+            "finish" : "2014-08-30T11:52:30+01:00",
+            "comment" : "Execution failed. Example #5 FAIL.",
+            "status" : "FAIL",
+            "evidences" : [
+                {
+   "data":"Test",
+   "filename":"image227.html",
+   "contentType":"text/html"
+                }
+                          ]
+            }

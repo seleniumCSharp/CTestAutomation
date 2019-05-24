@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+  
+    <configuration>
+        <!-- report theme -->
+        <!-- standard, dark -->
+        <theme>
+          standard
+         
+        </theme>
+    
+        <!-- document encoding -->
+        <!-- defaults to UTF-8 -->
+        <encoding>UTF-8</encoding>
+        
+        <!-- protocol for script and stylesheets -->
+        <!-- defaults to https -->
+        <protocol>https</protocol>
+        
+        <!-- title of the document -->
+        <documentTitle>MCS</documentTitle>
+		
+		<chartVisibilityOnOpen>true</chartVisibilityOnOpen>
+        
+        <!-- report name - displayed at top-nav -->
+      <reportName>
+        
+        <![CDATA[
+        <img class="pic" style="width:10%"  src='C:\Users\E002167\Pictures\MCS.jpg' />
+            ]]>
+      </reportName>
+      
+        <!-- location of charts in the test view -->
+        <!-- top, bottom -->
+        <testViewChartLocation>top</testViewChartLocation>
+      <!-- settings to enable/disable views -->
+      <!-- professional version only -->
+      <!--<enableCategoryView>true</enableCategoryView>
+      <enableAuthorView>false</enableAuthorView>
+      <enableExceptionView>true</enableExceptionView>
+      <enableTestRunnerLogsView>true</enableTestRunnerLogsView>-->
+      
+
+      <!-- custom javascript -->
+        <scripts>
+            <![CDATA[
+                
+    $(document).ready(function(){
+      $("div.logo.logo-dark").css("background-image", "url('http://dummyimage.com/450x255/')");
+      });
+            ]]>
+
+        </scripts>
+        
+        <!-- custom styles -->
+        <styles>
+            <![CDATA[
+               <img id="pic" style="padding-left:80px"  src='C:\Users\E002167\Pictures\MCS.jpg' />
+               
+            ]]>
+        </styles>
+    </configuration>
+</extentreports>
