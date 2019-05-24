@@ -455,7 +455,7 @@ namespace MCS.Test.Automation.Common
                 options.AddUserProfilePreference("profile.default_content_settings.popups", 0);
                 options.AddUserProfilePreference("download.default_directory", this.DownloadFolder);
                 options.AddUserProfilePreference("download.prompt_for_download", false);
-                options.AddArgument("--headless");
+                // options.AddArgument("--headless");
 
                 // set browser proxy for chrome
                 if (!string.IsNullOrEmpty(BaseConfiguration.Proxy))

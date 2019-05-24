@@ -190,3 +190,460 @@
 2019-05-24 06:00:01.3296|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
 2019-05-24 06:00:01.3296|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
 2019-05-24 06:00:01.3296|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.0441|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.2791|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.2791|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.2791|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.2941|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.2941|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.2941|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.5892|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.5892|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\ExtentReportResults', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 07:03:03.5892|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.5892|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\ExtentReportResults'
+2019-05-24 07:03:03.5892|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.5892|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\PDFDownloads', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 07:03:03.5892|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.5892|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\PDFDownloads'
+2019-05-24 07:03:03.5892|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.5892|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\DataDriven\XrayTestMethodOutput', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 07:03:03.5892|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.5892|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\DataDriven\XrayTestMethodOutput'
+2019-05-24 07:03:03.5892|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.5892|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\DataDriven\XrayTestSuiteOutput', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 07:03:03.5892|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.5892|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\DataDriven\XrayTestSuiteOutput'
+2019-05-24 07:03:03.8432|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_TestBrowser|Browser value from App.config 'Chrome'
+2019-05-24 07:03:03.8642|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.8642|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\PDFDownloads', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 07:03:03.8642|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:03:03.8672|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\PDFDownloads'
+2019-05-24 07:03:08.2413|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_EnableEventFiringWebDriver|Enable EventFiringWebDriver from App.config ''
+2019-05-24 07:03:08.2463|Info|MCS.Test.Automation.Common.Logger.TestLogger.Info|*************************************************************************************
+2019-05-24 07:03:08.2463|Info|MCS.Test.Automation.Common.Logger.TestLogger.Info|START: VerifyAddMembershipClassification starts at 5/24/2019 7:03:08 AM.
+2019-05-24 07:03:08.2603|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_TestBrowser|Browser value from App.config 'Chrome'
+2019-05-24 07:03:08.2603|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnNavigating|Navigating to: http://mcs2-service-fabric-qa.eastus.cloudapp.azure.com:8086/login
+2019-05-24 07:03:29.5558|Info|MCS.Test.Automation.Tests.PageObjects.PageObjects.Compass.LoginPage.OpenLandingPage|Opening page http://
+2019-05-24 07:03:29.5558|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnScriptExecuting|On Script Executing: return document.readyState
+2019-05-24 07:03:29.5838|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnScriptExecuted|On Script Executed: return document.readyState
+2019-05-24 07:03:29.5868|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:03:30.3768|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:03:31.1028|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:03:31.8409|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:03:32.5759|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:03:33.3199|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:03:34.0539|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:03:34.7889|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:03:35.5229|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:03:36.2560|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:03:36.9870|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:03:37.7220|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:03:38.4560|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:03:39.1910|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:03:39.9251|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:03:40.7011|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:03:41.4331|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:03:41.6571|Error|MCS.Test.Automation.Common.Verify.IsElementVisibleWithSoftAssertion|An exception occured while waiting for the element to become visible System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.EventFiringWebElement.get_Displayed()
+   at MCS.Test.Automation.Common.Extensions.SearchContextExtensions.<>c.<GetElement>b__0_0(IWebElement e) in C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Common\Extensions\SearchContextExtensions.cs:line 39
+   at MCS.Test.Automation.Common.Extensions.SearchContextExtensions.<>c__DisplayClass4_0.<GetElement>b__0(IWebDriver drv) in C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Common\Extensions\SearchContextExtensions.cs:line 126
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MCS.Test.Automation.Common.Extensions.SearchContextExtensions.GetElement(ISearchContext element, ElementLocator locator, Double timeout, Func`2 condition, String customMessage) in C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Common\Extensions\SearchContextExtensions.cs:line 122
+   at MCS.Test.Automation.Common.Extensions.SearchContextExtensions.GetElement(ISearchContext element, ElementLocator locator, String customMessage) in C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Common\Extensions\SearchContextExtensions.cs:line 39
+   at MCS.Test.Automation.Common.Verify.IsElementVisibleWithSoftAssertion(IWebDriver webDriver, ElementLocator locator, String name) in C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Common\Verify.cs:line 195
+2019-05-24 07:03:41.7081|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnScriptExecuting|On Script Executing: return document.readyState
+2019-05-24 07:03:42.2191|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnScriptExecuting|On Script Executing: return document.readyState
+2019-05-24 07:03:42.7237|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnScriptExecuting|On Script Executing: return document.readyState
+2019-05-24 07:03:43.2271|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnScriptExecuting|On Script Executing: return document.readyState
+2019-05-24 07:05:48.1425|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:48.2135|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:48.2155|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:48.2155|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:48.2155|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:48.2155|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:48.2155|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.0186|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.1026|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.1026|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.1026|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.1066|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.1066|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.1066|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.2496|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.2496|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\ExtentReportResults', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 07:05:55.2496|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.2496|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\ExtentReportResults'
+2019-05-24 07:05:55.2496|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.2496|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\PDFDownloads', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 07:05:55.2496|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.2496|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\PDFDownloads'
+2019-05-24 07:05:55.2496|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.2496|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\DataDriven\XrayTestMethodOutput', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 07:05:55.2496|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.2496|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\DataDriven\XrayTestMethodOutput'
+2019-05-24 07:05:55.2496|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.2496|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\DataDriven\XrayTestSuiteOutput', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 07:05:55.2496|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.2626|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\DataDriven\XrayTestSuiteOutput'
+2019-05-24 07:05:55.3306|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_TestBrowser|Browser value from App.config 'Chrome'
+2019-05-24 07:05:55.3466|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.3466|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\PDFDownloads', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 07:05:55.3466|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:05:55.3466|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\PDFDownloads'
+2019-05-24 07:06:00.8608|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_EnableEventFiringWebDriver|Enable EventFiringWebDriver from App.config ''
+2019-05-24 07:06:00.8608|Info|MCS.Test.Automation.Common.Logger.TestLogger.Info|*************************************************************************************
+2019-05-24 07:06:00.8868|Info|MCS.Test.Automation.Common.Logger.TestLogger.Info|START: VerifyUserableToLoginMCS2Application starts at 5/24/2019 7:06:00 AM.
+2019-05-24 07:06:00.8938|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_TestBrowser|Browser value from App.config 'Chrome'
+2019-05-24 07:06:00.8938|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnNavigating|Navigating to: http://mcs2-service-fabric-qa.eastus.cloudapp.azure.com:8086/login
+2019-05-24 07:06:22.2073|Info|MCS.Test.Automation.Tests.PageObjects.PageObjects.Compass.LoginPage.OpenLandingPage|Opening page http://
+2019-05-24 07:06:22.2073|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnScriptExecuting|On Script Executing: return document.readyState
+2019-05-24 07:06:22.2373|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnScriptExecuted|On Script Executed: return document.readyState
+2019-05-24 07:06:22.2373|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:23.0373|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:23.7723|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:24.4913|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:25.2274|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:25.9684|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:26.7024|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:27.4374|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:28.1784|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:28.9094|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:29.6415|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:30.3735|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:31.1105|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:31.8495|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:32.5845|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:33.3165|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:34.0536|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:34.7866|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:35.5216|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:36.2609|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:36.9946|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:37.7376|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:38.4707|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:39.2047|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:39.9267|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:40.6597|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:41.3907|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:42.1438|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:42.8788|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:43.6338|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:44.4098|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:45.1468|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:45.8818|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:46.6229|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:47.5669|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:48.2999|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:49.0369|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:49.7689|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:50.5030|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:51.2810|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:52.0130|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:52.7460|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:53.4840|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:54.3150|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:55.0351|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:55.7721|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:56.5151|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:57.2631|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:58.0391|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:58.7852|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:06:59.5122|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:00.2612|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:01.0002|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:01.7352|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:02.4792|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:03.2133|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:03.9643|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:04.7083|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:05.4413|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:06.1803|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:06.9154|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:07.6484|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:08.3834|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:09.1214|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:09.8554|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:10.5944|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:11.3275|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:12.0605|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:12.7965|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:13.5285|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:14.3015|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:15.0405|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:15.7726|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:16.5196|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:17.2556|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:17.9926|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:18.8166|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:19.5557|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:20.2907|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:21.0917|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:21.8597|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:22.5937|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:23.3277|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:24.0628|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:24.7988|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:25.5638|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:26.3228|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:27.0688|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:27.8018|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:28.5348|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:29.2709|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:30.0929|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:30.8469|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:31.5809|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:32.3220|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:33.0540|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:33.7910|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:34.5690|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:35.3040|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:36.0500|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:36.7861|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:37.5301|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:38.3311|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:39.1631|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:39.8991|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:40.6512|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:41.4112|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:42.1542|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:42.9042|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:43.6402|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:44.3892|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:45.1323|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:45.8674|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:46.5993|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:47.3803|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:48.1113|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:48.8433|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:49.6204|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:50.3534|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:51.1094|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:51.8564|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:52.5905|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.CssSelector: img.ui.image
+2019-05-24 07:07:52.8725|Error|MCS.Test.Automation.Common.Verify.IsElementVisibleWithSoftAssertion|An exception occured while waiting for the element to become visible OpenQA.Selenium.WebDriverTimeoutException: Timed out after 90 seconds ---> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"img.ui.image"}
+  (Session info: chrome=74.0.3729.157)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17763 x86_64)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByCssSelector(String cssSelector)
+   at OpenQA.Selenium.By.<>c__DisplayClass23_0.<CssSelector>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.FindElement(By by)
+   at MCS.Test.Automation.Common.Extensions.SearchContextExtensions.<>c__DisplayClass4_0.<GetElement>b__0(IWebDriver drv) in C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Common\Extensions\SearchContextExtensions.cs:line 125
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MCS.Test.Automation.Common.Extensions.SearchContextExtensions.GetElement(ISearchContext element, ElementLocator locator, Double timeout, Func`2 condition, String customMessage) in C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Common\Extensions\SearchContextExtensions.cs:line 122
+   at MCS.Test.Automation.Common.Extensions.SearchContextExtensions.GetElement(ISearchContext element, ElementLocator locator, String customMessage) in C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Common\Extensions\SearchContextExtensions.cs:line 39
+   at MCS.Test.Automation.Common.Verify.IsElementVisibleWithSoftAssertion(IWebDriver webDriver, ElementLocator locator, String name) in C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Common\Verify.cs:line 195
+2019-05-24 07:07:52.8844|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnScriptExecuting|On Script Executing: return document.readyState
+2019-05-24 07:07:52.8904|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnScriptExecuted|On Script Executed: return document.readyState
+2019-05-24 07:07:52.8904|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:07:53.7125|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:07:54.4405|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:07:55.1765|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:07:55.9375|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:07:56.6696|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:07:57.4006|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:07:58.1586|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:07:58.9236|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:07:59.6606|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:00.3996|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:01.1346|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:01.8817|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:02.8407|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:03.5877|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:04.3607|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:05.1007|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:05.8458|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:06.7288|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:07.4968|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:08.2308|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:08.9698|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:09.7099|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:10.4439|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:11.1789|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:11.9189|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:12.6569|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:13.3959|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:14.1520|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:14.8860|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:15.6250|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:16.3570|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:17.0970|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:17.8420|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:18.5746|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:19.3531|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:20.0981|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:20.8301|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:21.5711|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:22.3042|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:23.0362|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:23.7792|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:24.5142|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:25.2482|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:25.9942|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:26.7263|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:27.4613|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:28.2113|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:28.9423|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:29.6793|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:30.4133|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:31.1474|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:31.9174|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:32.6564|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:33.3884|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:34.1044|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:34.8395|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:35.5705|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:36.3165|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:37.0495|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:37.7815|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:38.5155|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:39.2666|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:39.9996|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:40.7356|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:41.4746|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:42.2106|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:42.9436|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:43.6767|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:44.4317|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:45.1647|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:45.8987|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:46.6347|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:47.3698|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:48.1018|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:48.8118|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:49.5498|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:50.2818|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:51.0118|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:51.7559|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:52.4919|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:53.1989|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:53.9419|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:54.6769|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:55.4279|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:56.1660|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:56.8970|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:57.6320|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:58.3630|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:59.1020|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:08:59.8411|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:00.5771|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:01.3101|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:02.0481|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:02.7801|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:03.5201|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:04.2742|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:05.0082|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:05.7432|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:06.4792|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:07.2122|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:07.9672|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:08.7033|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:09.4353|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:10.1743|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:10.9093|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:11.6463|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:12.3793|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:13.1104|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:13.8414|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:14.5824|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:15.3144|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:16.0484|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:16.7815|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:17.5125|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:18.2555|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:18.9905|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:19.7245|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:20.4505|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:21.1866|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:21.9186|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:22.6426|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:23.3756|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnFindingElement|OnFindingElement: By.Name: username
+2019-05-24 07:09:23.6076|Error|MCS.Test.Automation.Common.Extensions.WebDriverExtensions.IsElementVisible|An exception occured while waiting for the element to become visible OpenQA.Selenium.WebDriverTimeoutException: Timed out after 90 seconds ---> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"name","selector":"username"}
+  (Session info: chrome=74.0.3729.157)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17763 x86_64)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByName(String name)
+   at OpenQA.Selenium.By.<>c__DisplayClass18_0.<Name>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.FindElement(By by)
+   at MCS.Test.Automation.Common.Extensions.SearchContextExtensions.<>c__DisplayClass4_0.<GetElement>b__0(IWebDriver drv) in C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Common\Extensions\SearchContextExtensions.cs:line 125
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MCS.Test.Automation.Common.Extensions.SearchContextExtensions.GetElement(ISearchContext element, ElementLocator locator, Double timeout, Func`2 condition, String customMessage) in C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Common\Extensions\SearchContextExtensions.cs:line 122
+   at MCS.Test.Automation.Common.Extensions.SearchContextExtensions.GetElement(ISearchContext element, ElementLocator locator, String customMessage) in C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Common\Extensions\SearchContextExtensions.cs:line 39
+   at MCS.Test.Automation.Common.Extensions.WebDriverExtensions.IsElementVisible(IWebDriver webDriver, ElementLocator locator, String name) in C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Common\Extensions\WebDriverExtensions.cs:line 878
+2019-05-24 07:09:23.6916|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_FullDesktopScreenShotEnabled|Full Desktop Screen Shot Enabled value from App.config 'true'
+2019-05-24 07:09:23.7216|Info|MCS.Test.Automation.Common.Helpers.TakeScreenShot.DoIt|****************************Taking*Screenshot***************************************
+2019-05-24 07:09:23.8396|Error|MCS.Test.Automation.Common.Helpers.TakeScreenShot.DoIt|Screenshot taken.
+2019-05-24 07:09:23.8396|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:09:23.8396|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\TestOutput', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 07:09:23.8456|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:09:23.8456|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\TestOutput'
+2019-05-24 07:09:23.8666|Debug|MCS.Test.Automation.Common.Helpers.NameHelper.ShortenFileName|Length of the file full name is 170 characters
+2019-05-24 07:09:23.8946|Error|MCS.Test.Automation.Common.Helpers.TakeScreenShot.Save|Test failed: full screenshot saved to C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\TestOutput\VerifyUserableToLoginMCS2Application_2019_05_24_07_09_23_847_fullscreen.png.
+2019-05-24 07:09:23.8946|Debug|MCS.Test.Automation.Common.Helpers.FilesHelper.WaitForFileOfGivenName|Wait for file: VerifyUserableToLoginMCS2Application_2019_05_24_07_09_23_847_fullscreen.png
+2019-05-24 07:09:24.8997|Debug|MCS.Test.Automation.Common.Helpers.FilesHelper.WaitForFileOfGivenName|File exists
+2019-05-24 07:09:24.8997|Debug|MCS.Test.Automation.Common.Helpers.FilesHelper.WaitForFileOfGivenName|Checking if size of last file > 0 bytes
+2019-05-24 07:09:24.8997|Debug|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFileByName|Get File 'VerifyUserableToLoginMCS2Application_2019_05_24_07_09_23_847_fullscreen.png' from 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\TestOutput'
+2019-05-24 07:09:25.9027|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_SeleniumScreenShotEnabled|Selenium Screen Shot Enabled value from App.config 'true'
+2019-05-24 07:09:26.2657|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:09:26.2657|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\TestOutput', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 07:09:26.2677|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:09:26.2677|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\TestOutput'
+2019-05-24 07:09:26.2677|Debug|MCS.Test.Automation.Common.Helpers.NameHelper.ShortenFileName|Length of the file full name is 167 characters
+2019-05-24 07:09:26.2937|Debug|MCS.Test.Automation.Common.Helpers.FilesHelper.WaitForFileOfGivenName|Wait for file: VerifyUserableToLoginMCS2Application_2019_05_24_07_09_26_265_browser.png
+2019-05-24 07:09:27.2967|Debug|MCS.Test.Automation.Common.Helpers.FilesHelper.WaitForFileOfGivenName|File exists
+2019-05-24 07:09:27.2967|Debug|MCS.Test.Automation.Common.Helpers.FilesHelper.WaitForFileOfGivenName|Checking if size of last file > 0 bytes
+2019-05-24 07:09:27.2967|Debug|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFileByName|Get File 'VerifyUserableToLoginMCS2Application_2019_05_24_07_09_26_265_browser.png' from 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\TestOutput'
+2019-05-24 07:09:28.2987|Error|MCS.Test.Automation.Common.DriverContext.SaveScreenshot|Test failed: screenshot saved to C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\TestOutput\VerifyUserableToLoginMCS2Application_2019_05_24_07_09_26_265_browser.png.
+2019-05-24 07:09:28.2987|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_GetPageSourceEnabled|Get Page Source Enabled value from App.config 'true'
+2019-05-24 07:09:28.2987|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:09:28.2987|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\TestOutput', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 07:09:28.2987|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:09:28.2987|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\TestOutput'
+2019-05-24 07:09:28.2987|Debug|MCS.Test.Automation.Common.Helpers.NameHelper.ShortenFileName|Length of the file full name is 131 characters
+2019-05-24 07:09:28.2987|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:09:28.2987|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\TestOutput', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 07:09:28.2987|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:09:28.2987|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\TestOutput'
+2019-05-24 07:09:28.3537|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:09:28.3537|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\TestOutput', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 07:09:28.3537|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:09:28.3537|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\TestOutput'
+2019-05-24 07:09:28.3537|Debug|MCS.Test.Automation.Common.Helpers.FilesHelper.WaitForFileOfGivenName|Wait for file: VerifyUserableToLoginMCS2Application.html
+2019-05-24 07:09:28.3537|Debug|MCS.Test.Automation.Common.Helpers.FilesHelper.WaitForFileOfGivenName|File exists
+2019-05-24 07:09:28.3537|Debug|MCS.Test.Automation.Common.Helpers.FilesHelper.WaitForFileOfGivenName|Checking if size of last file > 0 bytes
+2019-05-24 07:09:28.3537|Debug|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFileByName|Get File 'VerifyUserableToLoginMCS2Application.html' from 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\TestOutput'
+2019-05-24 07:09:29.3598|Error|MCS.Test.Automation.Common.DriverContext.SavePageSource|Test failed: page Source saved to C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\TestOutput\VerifyUserableToLoginMCS2Application.html.
+2019-05-24 07:09:29.3598|Info|MCS.Test.Automation.Common.Logger.TestLogger.Info|Uploading file [C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\TestOutput\VerifyUserableToLoginMCS2Application_2019_05_24_07_09_23_847_fullscreen.png] to test context
+2019-05-24 07:09:29.3668|Info|MCS.Test.Automation.Common.Logger.TestLogger.Info|Uploading file [C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\TestOutput\VerifyUserableToLoginMCS2Application_2019_05_24_07_09_26_265_browser.png] to test context
+2019-05-24 07:09:29.3668|Info|MCS.Test.Automation.Common.Logger.TestLogger.Info|Uploading file [C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\TestOutput\VerifyUserableToLoginMCS2Application.html] to test context
+2019-05-24 07:09:29.3668|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_JavaScriptErrorLogging|JavaScript error logging value from App.config 'true'
+2019-05-24 07:09:29.3668|Debug|MCS.Test.Automation.Common.DriverContext.LogJavaScriptErrors|Checking JavaScript error(s) in browser
+2019-05-24 07:09:29.3768|Info|MCS.Test.Automation.Common.Logger.TestLogger.Info|END: VerifyUserableToLoginMCS2Application ends at 5/24/2019 7:09:29 AM after 209 sec.
+2019-05-24 07:09:29.3768|Info|MCS.Test.Automation.Common.Logger.TestLogger.Info|*************************************************************************************
+2019-05-24 07:10:54.2888|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:10:54.3658|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:10:54.3658|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:10:54.3658|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:10:54.3658|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:10:54.3658|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:10:54.3658|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:11:36.9508|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:11:37.0258|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:11:37.0258|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:11:37.0258|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:11:37.0258|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:11:37.0258|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 07:11:37.0258|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
