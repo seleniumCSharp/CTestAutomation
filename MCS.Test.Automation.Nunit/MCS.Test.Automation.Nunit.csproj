@@ -147,14 +147,6 @@
     <Compile Include="SuiteLevelConfiguration.cs" />
     <Compile Include="TestCaseDescriptionAttribute.cs" />
     <Compile Include="TestEnvironments.cs" />
-    <Compile Include="Tests\ASTMInternalLoginTest.cs" />
-    <Compile Include="Tests\MCSLoginErrorTest.cs" />
-    <Compile Include="Tests\VerifyAddandsaveanewapplicationTest.cs" />
-    <Compile Include="Tests\VerifyAddOfficerTitleFromCommitteManagementTest.cs" />
-    <Compile Include="Tests\VerifyEditMembershipTypeTest.cs" />
-    <Compile Include="Tests\VerifyEditMembershipClassificationTest.cs" />
-    <Compile Include="Tests\VerifyAddMembershipTypeTest.cs" />
-    <Compile Include="Tests\VerifyAddMembershipClassificationTest.cs" />
     <Compile Include="Tests\MCSLoginTest.cs" />
   </ItemGroup>
   <ItemGroup>

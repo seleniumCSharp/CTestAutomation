@@ -122,3 +122,49 @@
 2019-05-24 04:24:08.6950|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
 2019-05-24 04:24:08.6950|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
 2019-05-24 04:24:08.6950|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 05:14:19.5593|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 05:14:35.7714|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 05:14:36.0144|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 05:14:36.0144|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\ExtentReportResults', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 05:14:36.0174|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 05:14:36.0174|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\ExtentReportResults'
+2019-05-24 05:14:36.0174|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 05:14:36.0174|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\PDFDownloads', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 05:14:36.0174|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 05:14:36.0174|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\PDFDownloads'
+2019-05-24 05:14:36.0174|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 05:14:36.0174|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\DataDriven\XrayTestMethodOutput', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 05:14:36.0174|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 05:14:36.0174|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\DataDriven\XrayTestMethodOutput'
+2019-05-24 05:14:36.0174|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 05:14:36.0174|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\DataDriven\XrayTestSuiteOutput', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 05:14:36.0174|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 05:14:36.0174|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\DataDriven\XrayTestSuiteOutput'
+2019-05-24 05:14:36.1044|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_TestBrowser|Browser value from App.config 'InternetExplorer'
+2019-05-24 05:14:36.1244|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 05:14:36.1244|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\PDFDownloads', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 05:14:36.1284|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 05:14:36.1284|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\PDFDownloads'
+2019-05-24 05:14:36.1284|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 05:14:36.1284|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\PDFDownloads', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 05:14:36.1284|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 05:14:36.1284|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\PDFDownloads'
+2019-05-24 05:14:48.8604|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_EnableEventFiringWebDriver|Enable EventFiringWebDriver from App.config ''
+2019-05-24 05:14:48.8674|Info|MCS.Test.Automation.Common.Logger.TestLogger.Info|*************************************************************************************
+2019-05-24 05:14:48.8864|Info|MCS.Test.Automation.Common.Logger.TestLogger.Info|START: VerifyUserableToLoginMCS2Application starts at 5/24/2019 5:14:48 AM.
+2019-05-24 05:14:48.8984|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_TestBrowser|Browser value from App.config 'InternetExplorer'
+2019-05-24 05:14:48.8984|Trace|MCS.Test.Automation.Common.Logger.MyEventFiringWebDriver.OnNavigating|Navigating to: http://mcs2-service-fabric-qa.eastus.cloudapp.azure.com:8086/login
+2019-05-24 05:14:53.7054|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_FullDesktopScreenShotEnabled|Full Desktop Screen Shot Enabled value from App.config 'true'
+2019-05-24 05:14:53.8824|Info|MCS.Test.Automation.Common.Helpers.TakeScreenShot.DoIt|****************************Taking*Screenshot***************************************
+2019-05-24 05:14:54.2894|Error|MCS.Test.Automation.Common.Helpers.TakeScreenShot.DoIt|Screenshot taken.
+2019-05-24 05:14:54.7224|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 05:14:54.7224|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|appConfigValue '\TestOutput', currentFolder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug', UseCurrentDirectory 'True'
+2019-05-24 05:14:54.7224|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_UseCurrentDirectory|Use Current Directory value from App.config 'true'
+2019-05-24 05:14:54.7224|Trace|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFolder|Returned folder 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\TestOutput'
+2019-05-24 05:14:54.7494|Debug|MCS.Test.Automation.Common.Helpers.NameHelper.ShortenFileName|Length of the file full name is 170 characters
+2019-05-24 05:14:54.9814|Error|MCS.Test.Automation.Common.Helpers.TakeScreenShot.Save|Test failed: full screenshot saved to C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\TestOutput\VerifyUserableToLoginMCS2Application_2019_05_24_05_14_54_726_fullscreen.png.
+2019-05-24 05:14:55.4924|Debug|MCS.Test.Automation.Common.Helpers.FilesHelper.WaitForFileOfGivenName|Wait for file: VerifyUserableToLoginMCS2Application_2019_05_24_05_14_54_726_fullscreen.png
+2019-05-24 05:14:56.6664|Debug|MCS.Test.Automation.Common.Helpers.FilesHelper.WaitForFileOfGivenName|File exists
+2019-05-24 05:14:56.6664|Debug|MCS.Test.Automation.Common.Helpers.FilesHelper.WaitForFileOfGivenName|Checking if size of last file > 0 bytes
+2019-05-24 05:14:56.6664|Debug|MCS.Test.Automation.Common.Helpers.FilesHelper.GetFileByName|Get File 'VerifyUserableToLoginMCS2Application_2019_05_24_05_14_54_726_fullscreen.png' from 'C:\Users\jsingh\Documents\Others\CTestAutomation\MCS.Test.Automation.Nunit\bin\Debug\TestOutput'
+2019-05-24 05:14:57.6724|Trace|MCS.Test.Automation.Common.BaseConfiguration.get_SeleniumScreenShotEnabled|Selenium Screen Shot Enabled value from App.config 'true'
