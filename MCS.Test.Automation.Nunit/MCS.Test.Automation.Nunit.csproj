@@ -148,6 +148,11 @@
     <Compile Include="TestCaseDescriptionAttribute.cs" />
     <Compile Include="TestEnvironments.cs" />
     <Compile Include="Tests\MCSLoginTest.cs" />
+    <Compile Include="Tests\VerifyAddandsaveanewapplicationTest.cs" />
+    <Compile Include="Tests\VerifyAddMembershipClassificationTest.cs" />
+    <Compile Include="Tests\VerifyAddMembershipTypeTest.cs" />
+    <Compile Include="Tests\VerifyEditMembershipClassificationTest.cs" />
+    <Compile Include="Tests\VerifyEditMembershipTypeTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
